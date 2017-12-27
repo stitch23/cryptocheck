@@ -10,8 +10,11 @@
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
     "noEmitHelpers": true,
-    "importHelpers": true,
-    "strict": true,
+    "importHelpers": false,
+    "strict": false,
     "noImplicitReturns": false
-  }
+  },
+  "exclude": [
+    "node_modules"
+  ]
 }

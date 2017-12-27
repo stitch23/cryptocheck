@@ -10,7 +10,7 @@
     "react-native-typescript-transformer": "^1.1.4",
     "react-test-renderer": "16.0.0-alpha.12",
     "tslib": "^1.7.1",
-    "typescript": "^2.5.2"
+    "typescript": "^2.6.2"
   },
   "main": "./node_modules/react-native-scripts-ts/build/bin/crna-entry.js",
   "scripts": {
